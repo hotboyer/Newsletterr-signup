@@ -6,8 +6,8 @@
 
 .top {
     margin-bottom: -1px;
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
 }
 .middle {
     border-radius: 0 !important;
