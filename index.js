@@ -38,7 +38,7 @@ app.post("/", function (req, res) {
 
     const options = {
         method: "POST",
-        auth: "Pinnacle:a095e76e9df27bd0bed8acdac9b2d25a-us13"
+        auth: "Pinnacle:c9d30ac0465c10a4f26a5de95a90281e-us13"
     }
 
     const request = https.request(url, options, function (response) {
